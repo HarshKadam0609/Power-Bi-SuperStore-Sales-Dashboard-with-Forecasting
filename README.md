@@ -1,4 +1,4 @@
-Project - SuperStore Sales Dashboard with Forecasting
+Project - Superstore Sales Dashboard with Forecasting
 
 Skills Used - Microsoft Power BI
 
